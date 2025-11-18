@@ -112,9 +112,6 @@ En el directorio `documentos` se encuentran:
 - Informe final de calidad
 
 ## Autoría
-
-<<<<<<< HEAD
-**Estudiante**: [Tu Nombre]  
 =======
 **Estudiante**: Luis Javier Ali
 >>>>>>> e72a7e0bcd44e09bfa6abf92b9d5d4aa3ad93b41
