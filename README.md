@@ -28,23 +28,13 @@ El sistema aplica esta clasificación automáticamente durante el registro o mod
 SistemaTriageBasico/
 ├── src/
 │   ├── modelo/
-│   │   └── Paciente.java
 │   ├── dao/
-│   │   └── PacienteDAO.java
 │   ├── controlador/
-│   │   └── ControladorPaciente.java
 │   ├── vista/
-│   │   └── VentanaPrincipal.java
 │   └── util/
-│       ├── Conexion.java
-│       └── Validador.java
 ├── base_datos/
 │   └── script_triagedb.sql
 ├── documentos/
-│   ├── plan_pruebas.md
-│   ├── casos_prueba.md
-│   ├── registro_defectos.md
-│   └── informe_calidad.md
 └── README.md
 ```
 
@@ -123,7 +113,11 @@ En el directorio `documentos` se encuentran:
 
 ## Autoría
 
+<<<<<<< HEAD
 **Estudiante**: [Tu Nombre]  
+=======
+**Estudiante**: Luis Javier Ali
+>>>>>>> e72a7e0bcd44e09bfa6abf92b9d5d4aa3ad93b41
 **Carrera**: Sistemas de Información en Salud  
 **Universidad Estatal a Distancia (UNED)**  
 **Curso**: 03572 – Herramientas de Desarrollo y Calidad en SIS  
