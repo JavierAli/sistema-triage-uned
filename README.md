@@ -112,7 +112,6 @@ En el directorio `documentos` se encuentran:
 - Informe final de calidad
 
 ## Autoría
-=======
 **Estudiante**: Luis Javier Ali
 >>>>>>> 
 **Carrera**: Sistemas de Información en Salud  
