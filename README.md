@@ -114,7 +114,7 @@ En el directorio `documentos` se encuentran:
 ## Autoría
 =======
 **Estudiante**: Luis Javier Ali
->>>>>>> e72a7e0bcd44e09bfa6abf92b9d5d4aa3ad93b41
+>>>>>>> 
 **Carrera**: Sistemas de Información en Salud  
 **Universidad Estatal a Distancia (UNED)**  
 **Curso**: 03572 – Herramientas de Desarrollo y Calidad en SIS  
